@@ -1,15 +1,15 @@
-# 📱 Mobile Store API
+ Mobile Store API
 
 A simple E-commerce project to display a list of mobile phones and manage a shopping cart. 🛒
 
-## ✨ Features
+✨ Features
 
-- View all mobile phones 📱
+- View all mobile phones 
 - Add phones to the cart 🛍️
 - Clear the cart 🧹
 - Styled frontend with icons and colors 🎨
 
-## 🛠️ Tech Stack
+Tech Stack
 
 - Backend: Node.js + Express.js
 - Database: MySQL
